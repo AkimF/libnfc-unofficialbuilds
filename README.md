@@ -1,3 +1,5 @@
+libnfc on mingw:
+----------------
 ## Compile for Windows - 64-BIT (x64)  
    
 #### Tested using windows 10 pro x64, build 1703.  
